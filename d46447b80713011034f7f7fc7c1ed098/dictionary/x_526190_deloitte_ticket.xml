@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="task" label="Ticket" max_length="40" name="x_526190_deloitte_ticket" type="collection">
         <element label="ALC TEU" max_length="100" name="alc_teu" type="string"/>
+        <element label="Field A" max_length="10" name="field_a" type="string"/>
+        <element label="Field B" max_length="10" name="field_b" type="string"/>
     </element>
 </database>
