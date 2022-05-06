@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="ITIL Services" source="com.snc.service">0a9108860a0a3d30009b955a7741d39c</dependency>
+        <min_version/>
+        <sys_created_by>huy.lecd.tpv@one-line.com</sys_created_by>
+        <sys_created_on>2022-05-04 09:06:44</sys_created_on>
+        <sys_id>27ac9bf4db1f4990d101a82dd396195a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Deloitte Fake" source="x_526190_deloitte">d46447b80713011034f7f7fc7c1ed098</sys_package>
+        <sys_updated_by>huy.lecd.tpv@one-line.com</sys_updated_by>
+        <sys_updated_on>2022-05-04 09:06:44</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
